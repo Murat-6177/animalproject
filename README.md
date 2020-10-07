@@ -1,9 +1,3 @@
-##My age
+## animal dog age
 
-##found the later years
-
-##number of dog years
-
-##connection of 2 variables
-
-##finally
+dog age to convert to human age
